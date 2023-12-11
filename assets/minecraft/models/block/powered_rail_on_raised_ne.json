@@ -1,0 +1,7 @@
+{
+	"parent": "block/powered_rail_raised_ne",
+	"textures": {
+		"0": "block/powered_rail_on_raised_ne",
+		"particle": "block/powered_rail_on_raised_ne"
+	}
+}
